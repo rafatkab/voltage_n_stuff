@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+#info{
+    display: inline-block;
+    border: solid 3px;
+    margin-top: 50px;
+    width: 500px;
+    height: 600px;
+}
